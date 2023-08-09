@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=igot-apps&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=igot-apps&limit=5&theme=alduin&combine_all_yearly_contributions=true)
